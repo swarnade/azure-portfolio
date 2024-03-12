@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "SSP Gemini ",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Here is SSP Gemini , An AI ChatBot Develped by Swarnadeep SP , Powered By Google Gemini Pro/Pro Vision ",
+    url: "https://sspgemini.swarnadeepsahapoddar.in/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "SIT Tech Frenzy",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed A Website For Hackathon",
+    url: "https://github.com/Sit-Tech-Frenzy/FinalWebsite",
   },
   {
-    title: "My Resume Site",
+    title: "SIT Photography Club",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Developed A Website For Photography Club of SIT",
+    url: "https://github.com/swarnade/sitphotographyclub",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "CPS SIT",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Developed A Website For Coding Club of SIT",
+    url: "https://github.com/swarnade/CPS-SIT",
   },
 ];
 
